@@ -1,5 +1,5 @@
 Pillow==9.5.0
-joblib==1.2.0
+joblib==1.5.1
 matplotlib
 numpy
 opencv-python==4.8.0.76
